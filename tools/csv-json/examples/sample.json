@@ -1,0 +1,6 @@
+{
+  "Language": {
+    "en": { "hello": "Hello", "bye": "Bye" },
+    "fr": { "hello": "Bonjour", "bye": "Au revoir" }
+  }
+}

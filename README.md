@@ -18,8 +18,10 @@ dev-tools/
 			README.md           # Starter README when creating a new tool
 	docs/
 		conventions.md        # Shared repo conventions
+	csv-json/
+		index.js              # Canonical wrapper for csv-json tool
 	json2csv/
-		index.js              # Backward-compatible wrapper (legacy path)
+		index.js              # Backward-compatible legacy alias
 ```
 
 ## Conventions
@@ -31,7 +33,7 @@ dev-tools/
 
 ## Current Tools
 
-- `json2csv`: Convert locale-based JSON objects into CSV.
+- `csv-json`: Convert locale-based JSON objects to CSV and CSV back to JSON.
 
 ## Add A New Tool
 

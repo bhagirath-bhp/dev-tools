@@ -15,7 +15,7 @@ tools/<tool-name>/
 ## Naming
 
 - Use lowercase kebab-case for tool folder names.
-- Keep tool names behavior-focused (`json2csv`, `http-retry`, `git-branch-clean`).
+- Keep tool names behavior-focused (`csv-json`, `http-retry`, `git-branch-clean`).
 
 ## Design Guidelines
 
